@@ -112,7 +112,7 @@ header{
 }
 
 #index{
-  background-image:url(bridge.JPG);
+  background-image:url(./bridge.JPG);
   background-repeat:no-repeat;
   background-position:center center;
   background-attachment:fixed;
