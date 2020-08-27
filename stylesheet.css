@@ -112,7 +112,7 @@ header{
 }
 
 #index{
-  background-image:url(./photo/bridge.JPG);
+  background-image:url(./bridge.JPG);
   background-repeat:no-repeat;
   background-position:center center;
   background-attachment:fixed;
@@ -120,7 +120,7 @@ header{
 }
 
 #about{
-  background-image:url(./photo/stone2.JPG);
+  background-image:url(.//stone2.JPG);
   background-repeat:no-repeat;
   background-position:center top;
   background-attachment:fixed;
@@ -128,7 +128,7 @@ header{
 }
 
 #campus{
-  background-image:url(./photo/stone2.JPG);
+  background-image:url(./stone2.JPG);
   background-repeat:no-repeat;
   background-position:center top;
   background-attachment:fixed;
@@ -264,7 +264,7 @@ table{
   }
 
   #index{
-    background-image:url(./photo/bridge3.JPG);
+    background-image:url(./bridge3.JPG);
   }
 
   #index .logo a{
